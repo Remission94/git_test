@@ -1,1 +1,2 @@
 Changed text 
+Testing commit without -m and writing the message in VSC
